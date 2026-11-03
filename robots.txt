@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cardsaver.rapa.world/sitemap.xml
